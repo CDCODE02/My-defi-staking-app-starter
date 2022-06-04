@@ -4,7 +4,7 @@
 
 git clone https://github.com/CDCODE02/My-defi-staking-app-starter.git
 
-This code has been revesed engineered from Greg DAPPuniversity.com! If you enjoyed this course go check out his work ;)
+This code has been revesed engineered from Greg DAPPuniversity.com! If you enjoyed this course go check out his works ;)
 Please feel free to clone and style this project at your own discretion!
 
 ## 1 To Clone or download this project simply run:
